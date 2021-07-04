@@ -3,3 +3,39 @@ margin-bottom: 0px;
 margin-left: 0px;
 margin-right: 0px;
 margin-top: 0px
+.top-banner{
+  background-image: url("https://smhasanopu.github.io/portfolio-one/images/top-banner.png");
+background-repeat: no-repeat;
+display: flex;
+font-family: "Poppins", sans-serif;
+margin-bottom: 150px
+}
+.half-width{
+  font-family: "Poppins", sans-serif;
+padding-left: 19.2px;
+padding-right: 19.2px;
+width: 192px
+}
+.dream-big{background-image: url("https://smhasanopu.github.io/images/dream-bg.png");
+background-position: 100% 50%;
+background-position-x: 100%;
+background-position-y: 50%;
+background-repeat: no-repeat;
+display: flex;
+font-family: "Poppins", sans-serif;
+margin-bottom: 150px
+}
+.expriance-area{
+  background-attachment: scroll;
+background-clip: border-box;
+background-color: rgba(0, 0, 0, 0);
+background-image: url("https://smhasanopu.github.io/portfolio-one/images/exp-bg.png");
+background-origin: padding-box;
+background-position: 0% 50%;
+background-position-x: 0%;
+background-position-y: 50%;
+background-repeat: no-repeat;
+background-size: auto;
+font-family: "Poppins", sans-serif;
+  margin-bottom: 150px}
+.box{
